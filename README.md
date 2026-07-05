@@ -1,6 +1,9 @@
-# python_calculator-
+# simple python calculator
 
 My first Python project.
+
+## Author
+Paarth Gupta
 
 ## Features
 - Addition
